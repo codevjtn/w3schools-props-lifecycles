@@ -1,2 +1,2 @@
-# w3schools-props-lifecycles
+# w3schools-props-lifecycle
 Created with CodeSandbox
